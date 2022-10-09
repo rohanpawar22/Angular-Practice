@@ -1,0 +1,14 @@
+:host {
+  display: flex;
+  flex-direction: row;
+  align-content: stretch;
+  align-items: stretch;
+  width: 100%;
+  height: calc(100vh - 100px);
+}
+
+.sidenav-container {
+  height: 100%;
+  background: #1976d26b;
+  width: 200px;
+}
